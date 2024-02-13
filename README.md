@@ -1,4 +1,4 @@
 # sushant-demo
 This is my first repository
 <br>
-Author - Sushant Patil
+Author - Sushant Patil(Gargoti)
